@@ -11,7 +11,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzomaximino&show_icons=true&locale=en&layout=compact&theme=dark" alt="enzomaximino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzomaximino&show_icons=true&locale=en&theme=dark" alt="enzomaximino" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzomaximino&show_icons=true&locale=en&theme=dark" alt="enzomaximino" /></p> -->
 
 <h3 align="left">Vamos conversar?:</h3>
 <p>Me chama no LinkedIn ou confira meus repositórios aqui no GitHub!</p>
