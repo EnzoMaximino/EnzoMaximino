@@ -14,5 +14,5 @@
 <h3 align="left">Vamos conversar?:</h3>
 <p>Me chama no LinkedIn ou confira meus repositórios aqui no GitHub!</p>
 <p align="left">
-<a href="https://linkedin.com/in/enzo maximino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo maximino" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/enzomaximino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo maximino" height="30" width="40" /></a>
 </p>
